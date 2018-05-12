@@ -1,0 +1,31 @@
+_repo: Little-Masterpieces-of-Science--Explorers_29502
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Iles, George
+    birthdate: 1852
+    deathdate: 1942
+    gutenberg_agent_id: '697'
+    url: http://www.gutenberg.org/2009/agents/697
+description: ''
+gutenberg_issued: '2009-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29502'
+  lccn: 02022872
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Explorers'
+- !lcc 'G'
+tableOfContents: Columbus discovers America / Winsor, J. -- Arrival at the Pacific
+  ocean, 1805 / Lewis and Clarke -- The sources of the Mississippi, 1806 / Pike, Z.
+  M. -- Manila in 1842 / Wilkes, C. -- The ascent of Mount Tyndall / King, C. -- The
+  grand cañon of the Colorado is explored / Powell, J. W.
+title: 'Little Masterpieces of Science: Explorers'
+url: http://www.gutenberg.org/ebooks/29502
